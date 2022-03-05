@@ -97,9 +97,9 @@
         background-color: #000;
         z-index: 1;
     }
-    /* #nav {
+     #nav {
         display: inline-block;
-    } */
+    } 
     
     #nav>li {
         display: inline-block;
